@@ -3,8 +3,6 @@ layout: post
 title: Ethnicity of Kosovo Battle Hero
 ---
 
-published: true
----
 Source: Istoria degli ultimi quattro secoli della Chiesa, dallo Scisma d'occidente ...
  By Filippo Angelico Becchett,1788
  
