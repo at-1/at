@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: at.mb@msn.com
-  google: https://plus.google.com/
+  google: 
   flickr:
   github: barryclark/jekyll-now
   instagram:
@@ -26,10 +26,10 @@ footer-links:
   pinterest:
   rss: # RSSjust type anything here for a working RSS icon
   twitter: jekyllrb
+  facebook: gtcc1
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
+  googleplus: plus.google.com/M. Bi
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
