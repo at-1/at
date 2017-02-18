@@ -2,7 +2,7 @@
 layout: post
 title: Illyrians
 ---
-<h2 style="color:blue">The Illyrians</h2>
+
 Modem historiography and archaeology received their strongest initial impetus from the works of Germanophone scholarship in the 19th and early 20th centuries, coinciding with the German and Habsburg political and colonial interests in southeastern Europe. Zippel wrote a monograph on the Roman conquests in Illyricum, relying mostly on the interpretation of literary sources. 
 <img src="http://albter.eu5.org/images/Sir Arthur John Evans (1851-1941).png"..." width="162" height="200" align="right" />
 
