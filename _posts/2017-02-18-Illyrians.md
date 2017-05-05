@@ -4,11 +4,6 @@ title: Illyrians
 published: true
 ---
 
-layout	title	published
-post
-Illyrians
-true
-
 
 Modem historiography and archaeology received their strongest initial impetus from the works of Germanophone scholarship in the 19th and early 20th centuries, coinciding with the German and Habsburg political and colonial interests in southeastern Europe. Zippel wrote a monograph on the Roman conquests in Illyricum, relying mostly on the interpretation of literary sources. 
 
