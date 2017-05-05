@@ -3,11 +3,6 @@ layout: post
 title: Illyrians
 published: true
 ---
----
-layout: post
-title: The Illyrians
----
-
 Because of their historical connection with the Patriarchate, the Greeks came to represent, and speak on the behalf, of the entire Christendom in Europe and Asia. The Orthodox Patriarchate, shielded by Ottoman might, enjoyed power and prestige to a degree unknown even during the heyday of Byzantium…As an ethnic group, the Greeks were the first to be given positions within the high Ottoman bureaucracy without having to convert to Islam… p. 46
 
 Aided by this privileged position and strong european economic considerations as a trading distribution center, as well as western infatuation with ancient Greece,  Greeks were able to create a fast expanding middle class which, in turn, caused an increase in the size of the Greek-speaking population and of groups that identified with the Greek Patriarchate, regardless of their ethnic origins. 47 <img src="http://albter.eu5.org/images/7-page-0011.jpg" width="247" height="162" align="right" />
