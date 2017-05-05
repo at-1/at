@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Etnicity and religion in Ottoman Empire
+title: Ethnicity and religion in Ottoman Empire
 ---
 Because of their historical connection with the Patriarchate, the Greeks came to represent, and speak on the behalf, of the entire Christendom in Europe and Asia. The Orthodox Patriarchate, shielded by Ottoman might, enjoyed power and prestige to a degree unknown even during the heyday of Byzantium…As an ethnic group, the Greeks were the first to be given positions within the high Ottoman bureaucracy without having to convert to Islam… p. 46
 
