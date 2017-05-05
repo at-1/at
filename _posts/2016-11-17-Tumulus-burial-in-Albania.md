@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tumulus-burial in Albania
-published: t
+published: true
 ---
 Tumulus-burial was characteristic of Illyrian tribes both to the north of Albanian and in Albania, but was customary also among other pastoral groups which were Greek-speaking, e.g. in central Epirus and in western Macedonia (in Pelagonia and Eordaea) or Phrygian-speaking (e.g. below Vergina). A great expansion of Illyria tribes occurred from c 900 BC onwards, the center from which they they came being Glasinac in Central Yugoslavia… The leading warriors buried in some of these tumuli had as many as ten spears each in heir graves. Tribes from the Glasinac area entered North and Centarl Albania in large numbers and overran the existing Illyrian tribes. The names of the leading tribes are preserved in a genealogical form, which came from a Greek source.7 Illyrius, son of the Cyclops Polyphemus and his lady Galatea, had various sons and daughters, of whom some were eponyms of the Darwinians (in Metohija and Kosovo), the Taulantii (from Tirana southwards), Encheleae (by Lake Ohrid), and Parthini (middle and upper Shkumbi valley). Illyrius himself wa the eponym of the Illyria, a tribe inland of Lethe, from which the Greeks extended the name to all peoples of similar speech. The expansion carried some groups of warriors into central Epirus, others into Central Macedonia, and one group to Halus on South Thessaly, where a tumuli contained remains of men and woman with words, knives and spears of the eight century BC…(N.G.L. Hammond in Winnifrith,Tom, Perspective on Albania, 1992, p.34)
 
