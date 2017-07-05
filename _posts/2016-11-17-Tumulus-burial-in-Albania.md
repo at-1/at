@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Double-headed-eagle-motif-with-the-Illyrians
+title: Double-headed eagle motif with the Illyrians
 published: true
 ---
 
@@ -11,5 +11,3 @@ published: true
 </CENTER>
 
 1. VI c. BC -Croatia, 2. VI c. BC -Montenegro, 3. VI-V c. BC -Mat tumulus (Albania), 4. VI c. -Korce (Albania)
-
-
