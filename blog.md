@@ -1,2 +1,0 @@
-Some information about you!
-
