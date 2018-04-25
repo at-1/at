@@ -1,15 +1,6 @@
 ---
 published: true
 ---
----
-layout: post
-title: Albanians as seen by others
-published: true
----
-
-
-
-
 <p>Albania, in the most extended acceptation of the name, is that long and lofty chain of mountains, intersected by deep valleys and by fertile basins, which ramifies from the summits of Epirus and the eternal snows of Pindus along to the extremity of the Gulf of Venice, where it comes to knot itself almost perpendicularly with the Germanic Alps. One of the flanks of this chain looks upon Turkey of Europe, the plains of Adrianople, the valleys of Bulgaria, the virgin forests of Servia, the plains of Hungary and of Transylvania ; the other flank, more steep and more calcined by the sun, looks upon the Adriatic, the Ionian Isles and the distant coasts of Italy. All this seaboard, from the Gulf of Lepanto to whore terminates Greece properly so called, is indented with creeks, with roadsteads, with ravines more or less deep, where the sea insinuates itself between precipitous cliffs. Strips of plain, sheltered, sultry, fertile as gardens exposed to the sun, bestrew here and there the margin of the waters along these coves. They present to the sea a town, a citadel, a port, sails painted with ochre like those of the ancient Greek mariners, orchards surrounding the crenelated walls, towers in ruins upon the shoals in front; then those plains disappear by gradual narrowing and elevation into gorges excavated by the torrents that descend from the snows or from the lakes of the mountains.
 <p>The robust knot which seems to colligate all the divergent ramifications of this Alpine chain into a common trunk is Epirus or lower Albania and Macedon, this kingdom of Philip and of Alexander, which seems to lean over Greece as if to master it, and over Turkey of Europe to use by turns or to menace its possessors.
   
