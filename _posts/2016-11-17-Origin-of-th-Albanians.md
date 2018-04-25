@@ -3,7 +3,7 @@ layout: post
 title: Origin of the Albanians
 published: true
 ---
-<p>Decades of 60 and 70 of the past century saw extensive archeological work in Albania which previously had not received attention. Albania was part of the area which was assumed to have been overwhelmed by XIII-IX B.C. invasions from the north. The well known Albanian archeologist, Frano Prendi contradicted this view on the basis of unearthed evidence, indicating that there was no basis for identifying  XIII-IX B.C invasions as Illyrian, and magnify the effect of these invasions on Albanian territories.
+<p>Decades of 60 and 70 of the past century saw extensive archeological work in Albania which previously had not received attention. Albania was part of the area which was assumed to have been overwhelmed by XIII-IX B.C. invasions from the north. The well known Albanian archeologist, Frano Prendi contradicted this view on the basis of unearthed evidence, indicating that there was no basis for identifying  XIII-IX B.C invasions as Illyrian, and magnify the effect of these invasions on Albanian territories.<img src="https://insight-his.appspot.com/images/Lofkend.jpg" width="247" height="162" align="right" />
 
 <p>According to Albanian archaeologists important changes had taken place around 2600 B.C.  in the life of Maliq/Korce settlement. Copper work tools are seen to be in use, such as hatchets, needles and fishing hooks. This evident economic advance is manifested in indications of inter-regional trade, as indicated by the southward spread of Albano-Dalmation axe. Finds of many Myceanian objects indicates that trade with Hellas and the Aegean area had also increased. (Korkuti, M., Parailiret, Iliret, Arberit, 2003, p. 49)</p>
 
