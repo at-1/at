@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Double-headed-eagle-motif-with-the-Illyrians.md
+title: Double headed eagle motif with the Illyrians
 published: true
 ---
 
