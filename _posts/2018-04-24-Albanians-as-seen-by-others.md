@@ -23,9 +23,9 @@ Their spirit is poetic like their manners. Their popular songs, especially those
 
 
   
-<a href="https://www.dropbox.com/s/5ofvkvvko3g8c2q/800px-Andree64-1.jpg?dl=0"><img alt="map" src="https://www.dropbox.com/s/5ofvkvvko3g8c2q/800px-Andree64-1.jpg?dl=0" width="125" height="100" ALIGN="right" alt="Map"></a>
+<a href="https://www.dropbox.com/s/5ofvkvvko3g8c2q/800px-Andree64-1.jpg?raw=1"><img alt="map" src="https://www.dropbox.com/s/5ofvkvvko3g8c2q/800px-Andree64-1.jpg?raw=1" width="125" height="100" ALIGN="right" alt="Map"></a>
 
-https://www.dropbox.com/s/5ofvkvvko3g8c2q/800px-Andree64-1.jpg?dl=0
+https://www.dropbox.com/s/5ofvkvvko3g8c2q/800px-Andree64-1.jpg?raw=1
 
 
 
