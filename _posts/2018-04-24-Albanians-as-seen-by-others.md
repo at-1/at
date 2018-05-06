@@ -13,10 +13,9 @@ The robust knot which seems to colligate all the divergent ramifications of this
 
 <a href="link url"><img src="https://1drv.ms/u/s!ArZi-4F1_MJpgxqkHt_OjNyR3_kh " width="200" align="right" /></a>
   
-https://1drv.ms/u/s!ArZi-4F1_MJpgxqkHt_OjNyR3_kh 
+https://1drv.ms/u/https://xyn2lq.dm.files.1drv.com/y4mdo1bKCM0OVFEMrNfNnH7JCTWSAM8bZjYeZcXqHK0emWp7_zTgjAf03-JILuYkKB8j6r9F8ZESh72-j6BUf-wc48nGewDKufUYYsEYUfCbNAAqMTKh-HAI5gKJZI8a3xURQUkz6KroQyD2SST8WZ8uRcI9gi0Y4uEW17RpJMBfh7qSV43xWIGBGAlIE8OCgeSV_HGwIwsU3WksCyd3tfzDA?width=3117&height=2439&cropmode=nones!ArZi-4F1_MJpgxqkHt_OjNyR3_kh 
 
-  <a href='https://1drv.ms/u/s!ArZi-4F1_MJpgxqkHt_OjNyR3_kh'><img src='
-https://1drv.ms/u/s!ArZi-4F1_MJpgxqkHt_OjNyR3_kh' width="300" height="250" ALIGN="right" /></a>
+  <a href='https://xyn2lq.dm.files.1drv.com/y4mdo1bKCM0OVFEMrNfNnH7JCTWSAM8bZjYeZcXqHK0emWp7_zTgjAf03-JILuYkKB8j6r9F8ZESh72-j6BUf-wc48nGewDKufUYYsEYUfCbNAAqMTKh-HAI5gKJZI8a3xURQUkz6KroQyD2SST8WZ8uRcI9gi0Y4uEW17RpJMBfh7qSV43xWIGBGAlIE8OCgeSV_HGwIwsU3WksCyd3tfzDA?width=3117&height=2439&cropmode=none' width="300" height="250" ALIGN="right" /></a>
 
 
 It is not known from what human stock the Albanians are descended. They are found under the name of Illyrians in their native mountain strongholds before the Greeks, the Hungarians, the Germans, the Venetians, the Turks. Some historians think they recognize in their traditions and in their tongue an Italic colony of shepherds from Alba, emigrated with their flocks from Latium, and transported, it is not conceived how, into this lllyria from which they were separated by the Adriatic. Others derive their name from the whiteness with which the snows crown, a great part of the year, the summits of their mountains. It is certain that a city of Alba had been built by them before the Greek times, on the confines of the mountain which separates them from Servia. It is more probable they take their name from Alb, permuted from Alp, which in almost all primitive idioms signifies high pasturages, and from the site has been extended to the inhabitants.
